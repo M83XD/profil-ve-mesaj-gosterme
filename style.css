@@ -1,0 +1,16 @@
+body {
+background-color: sandybrown;
+}
+.m83profilkart{
+    background-color: lightskyblue;
+    width: 500px;
+    border-radius: 8px;
+    overflow: hidden;
+}
+.baslik{
+    background-color: aliceblue;
+    display: flex;
+    align-items: baseline;
+    justify-content: center;
+    gap: 10px;
+}
